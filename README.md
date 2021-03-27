@@ -5,4 +5,4 @@
 4) add build.gradle
 5) create gradle project -> right click build.gradle -> import gradle project
 6) create 2 new folders and packages -> test java test resources
-7) righting tests in basic structure - TestBase + MainPageTests
+7) righting tests in basic structure - TestBase + MainPageTests + Helpers
