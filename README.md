@@ -3,4 +3,4 @@
 2) pull it in idea
 3) add .gitignore
 4) add build.gradle
-5) create gradle project ->
+5) create gradle project -> right click build.gradle -> import gradle project
